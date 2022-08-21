@@ -1,0 +1,4 @@
+comment = 'pg_query_tool: Query tool for PostgreSQL'
+default_version = '1.0'
+module_pathname = '$libdir/pg_query_tool'
+relocatable = false
